@@ -1,4 +1,4 @@
-# Gaming_Handheld
+# Gaming Handheld
 Lớp học phần: Đồ án chuyên ngành Cơ điện tử  
 Mã lớp học phần: EMA3148 3  
 
